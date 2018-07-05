@@ -1,4 +1,6 @@
-# 100 Days Of ML Code - Log
+# 100 Days Of ML Code - Example Log
+
+## Use this as a base template. Create your own repository on GitHub and start logging your work daily!
 
 ### Day 0: February 29, 2016 (Example 1)
 ##### (delete me or comment me out)
