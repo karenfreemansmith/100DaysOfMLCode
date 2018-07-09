@@ -9,6 +9,7 @@ I'm glad to be so close to finished with this online course. I feel like I've le
 
 **Link(s) to work**
 * [Newtork Analysis 1 Notebook](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC22_NetworkAnalysisPython1.ipynb)
+* [Interactive Visualizations with Bokeh Notebook](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC14_InteractiveDataVisualizationBokeh.ipynb)
 
 ### Day 3: July 7, 2018
 **Today's Progress**: Finished the second half of DataCamp Deep Learning course (Keras lessons), started working on the Network Analysis course.
