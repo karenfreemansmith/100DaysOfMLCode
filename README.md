@@ -1,6 +1,24 @@
 # 100 Days Of ML Code Log
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
+### Day 6: July 9, 2018 (after work)
+**Today's Progress**: Finished! Finished the last course for the Data Scientist certificate, finished the interactive graph I was working on this morning...trying to get it to run in a Jupyter Notebook the same as it does in the DataCamp environment, but bedtime...because: work...
+
+**Thoughts**
+I'm excited about this interactive graph. I think it will be a killer EDA app for my 'real' projects. I'm trying to decide what comes next still, but whatever it is - this Bokeh stuff is cool and that's how I want to explore the data. Wish it was the weekend so I could have more time to work on it.
+
+**Link(s) to work**
+* [Interactive Visualizations with Bokeh Notebook](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC14_InteractiveDataVisualizationBokeh.ipynb)
+
+### Day 5: July 9, 2018 (before work)
+**Today's Progress**: Almost there, one exercise left, but I'm already running late for work so I have to leave it for now.
+
+**Thoughts**
+__work !$&^$%)__
+
+**Link(s) to work**
+* [Interactive Visualizations with Bokeh Notebook](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC14_InteractiveDataVisualizationBokeh.ipynb)
+
 ### Day 4: July 8, 2018
 **Today's Progress**: Finished the DataCamp Deep Learning Network Analysis course and made some more progress on the Interactive Visualization course, should be able to finish it tomorrow and that will wrap up the DataCamp certificate
 
