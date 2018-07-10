@@ -1,7 +1,18 @@
 # 100 Days Of ML Code Log
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
-### Day 6: July 9, 2018 (after work)
+### Day 6: July 10, 2018 (before work)
+**Today's Progress**: None...  
+
+**Thoughts**
+I was trying to get the interactive graph to work locally, in a Jupyter notebook, the graph shows and the default tools "work", but the stuff I write in code just sits there like it's on a smoke break or something. Found a couple of things in the documentation that make me think it's supposed to be possible in a notebook. I'm really just trying to avoid the whole "set up a server" thing. That sounds like more than I can do in an hour, possibly a weekend task...
+
+I'm also thinking all those notes I was taking for the DataCamp course could really be organized better, the files get too long and there is no good way to search for that one code snippet you are thinking of. I might need to transfer the exercises to a blog instead so I can find stuff easier.
+
+**Link(s) to work**
+* None
+
+### Day 5: July 9, 2018 (after work)
 **Today's Progress**: Finished! Finished the last course for the Data Scientist certificate, finished the interactive graph I was working on this morning...trying to get it to run in a Jupyter Notebook the same as it does in the DataCamp environment, but bedtime...because: work...
 
 **Thoughts**
