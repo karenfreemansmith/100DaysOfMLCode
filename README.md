@@ -1,6 +1,16 @@
 # 100 Days Of ML Code Log
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
+### Day 7: July 11, 2018
+**Today's Progress**: Research - Looking at the documentation for Bokeh and trying to troubleshoot my charts in Jupyter. Also looking at some machine learning competitions and picking some datasets to work with.
+
+**Thoughts**
+Suffering from mid-week frustration at work and trying to fight it off enough to concentrate on learning activities. I don't want to install a server right now. I think this weekend I'll see what it would take to set up a docker container and figure out how to deploy it online somewhere. At some point we need to be able to do this at work as well, so like it or not, I should try to figure it out. Until then I'm going to look at some datasets from machine learning competitions and try to pick one or two to work on. I want to practice what I've been learning on my own projects. Started notebooks for the Titanic data from Kaggle and the DengAI data from DrivenData.
+
+**Link(s) to work**
+* [Titanic data from Kaggle](https://www.kaggle.com/c/titanic/data)
+* [DengAI data from DrivenData](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/)
+
 ### Day 6: July 10, 2018 (before work)
 **Today's Progress**: None...  
 
@@ -12,7 +22,7 @@ I'm also thinking all those notes I was taking for the DataCamp course could rea
 **Link(s) to work**
 * None
 
-### Day 5: July 9, 2018 (after work)
+### Day 6: July 9, 2018 (after work)
 **Today's Progress**: Finished! Finished the last course for the Data Scientist certificate, finished the interactive graph I was working on this morning...trying to get it to run in a Jupyter Notebook the same as it does in the DataCamp environment, but bedtime...because: work...
 
 **Thoughts**
