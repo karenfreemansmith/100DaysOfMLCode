@@ -2,10 +2,10 @@
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
 ### Day 8: July 12, 2018
-**Today's Progress**: Finding and taking a first look at some more datasets. I'm looking at legos, credit data, school budgets, and characters from asoiaf.
+**Today's Progress**: Finding and taking a first look at some more datasets. I'm looking at legos, credit data, school budgets, and characters from asoiaf. (evening) Completed the Lego project at DataCamp.
 
 **Thoughts**
-I'm pretty happy with the variety of the data I've got to start with. I've got large and small, and some sets that are intended for different types of ML. I want to be able to experiment a little with using different models and approaches with different types of data. The legos set is most similar to the problems we are looking at on the job. The job itself continues to be frustrating. I want to write code, but I keep getting directed toward setup tasks and other busy work that often seems irrelevant.
+I'm pretty happy with the variety of the data I've got to start with. I've got large and small, and some sets that are intended for different types of ML. I want to be able to experiment a little with using different models and approaches with different types of data. The legos set is most similar to the problems we are looking at on the job. The job itself continues to be frustrating. I want to write code, but I keep getting directed toward setup tasks and other busy work that often seems irrelevant. Was a little disappointed there wasn't more to the Lego project...I hope to do more with my own Lego project. It was, maybe, a good starting point to help think about the datasets I'll be working with on the side.
 
 **Link(s) to work**
 * [Kaggle Credit Analysis](https://www.kaggle.com/c/home-credit-default-risk)
