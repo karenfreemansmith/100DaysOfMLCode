@@ -1,6 +1,15 @@
 # 100 Days Of ML Code Log
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
+### Day 11: July 15, 2018
+**Today's Progress**: Working through the ASOIF project on DataCamp - exploring network analysis with the characters from Game of Thrones.
+
+**Thoughts**
+I'm disappointed there wasn't something more to the project. I'd like to see more of what network analysis can do, maybe predict who will finally sit the iron throne? (LOL) At the very least, recommend some friends for our book characters or something of that nature. I'll be working more with the dataset to try to do some of those things. The one thing that really ate up my time today was trying to get more variety of colors on the plt.plot() of main characters. The colors cycled through twice, so you can't really tell which characters are the most connected by looking at the graph. That just seems wrong. But trying to find a solution (at least for this type of graph) was fruitless.
+
+**Link(s) to work**
+* [ASOIAF Experiments](https://github.com/karenfreemansmith/ML-ASOIAF)
+
 ### Day 10: July 14, 2018
 **Today's Progress**: First look at the data. Basic pandas stuff: .info(), .description(), .head() and histograms/scattergraphs where possible.
 
@@ -8,7 +17,7 @@ I've been working through the courses at DataCamp.com for the past month or two 
 I'm disappointed that this initial look didn't reveal any real revelations beyond the shape and size of the data available. Some of my plots look pretty bad, and some of the data needs a lot of scrubbing to make it useful. I'm happy about those results because they mean I have some good practical experience ahead of me in the next few weeks to try to sort out the data and get something useful to use later. I think the data preparation gets ignored a lot because it's not as sexy as fitting a model.  But how hard is it to type in "model.fit()"? It seems that preparing the data is really the tricky part of the process. (I say to myself as I start to panic that there is so much prep work between me and that first model.fit())
 
 **Link(s) to work**
-
+* None
 
 ### Day 9: July 13, 2018
 **Today's Progress**: Finished my initial data collection process.
@@ -17,10 +26,10 @@ I'm disappointed that this initial look didn't reveal any real revelations beyon
 I have 6 vastly different datasets to work with now. I want to experiment with all the different kinds of analysis and machine learning techniques I've just finished learning. I tried to get a variety of data so that there would be some good/bad fit for various processes because I want to see what happens if I, say, try network analysis to solve the Titanic problem... but also, what can regression or classification do with the ASOIAF network data - anything?
 
 **Link(s) to work**
-
+* None
 
 ### Day 8: July 12, 2018
-**Today's Progress**: Finding and taking a first look at some more datasets. I'm looking at legos, credit data, school budgets, and characters from asoiaf. (evening) Completed the Lego project at DataCamp.
+**Today's Progress**: Finding and taking a first look at some more datasets. I'm looking at legos, credit data, school budgets, and characters from ASOIAF. (evening) Completed the Lego project at DataCamp.
 
 **Thoughts**
 I'm pretty happy with the variety of the data I've got to start with. I've got large and small, and some sets that are intended for different types of ML. I want to be able to experiment a little with using different models and approaches with different types of data. The legos set is most similar to the problems we are looking at on the job. The job itself continues to be frustrating. I want to write code, but I keep getting directed toward setup tasks and other busy work that often seems irrelevant. Was a little disappointed there wasn't more to the Lego project...I hope to do more with my own Lego project. It was, maybe, a good starting point to help think about the datasets I'll be working with on the side.
@@ -30,6 +39,7 @@ I'm pretty happy with the variety of the data I've got to start with. I've got l
 * [DrivenData School Budgets](https://www.drivendata.org/competitions/46/box-plots-for-education-reboot/data/)
 * [DataCamp/Rebrickable Legos](https://rebrickable.com/downloads/)
 * [DataCamp ASOIAF](https://www.datacamp.com/projects/10)
+* [Lego Experiments](https://github.com/karenfreemansmith/ML-legos)
 
 ### Day 7: July 11, 2018
 **Today's Progress**: Research - Looking at the documentation for Bokeh and trying to troubleshoot my charts in Jupyter. Also looking at some machine learning competitions and picking some datasets to work with.
