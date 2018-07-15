@@ -1,6 +1,24 @@
 # 100 Days Of ML Code Log
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
+### Day 10: July 14, 2018
+**Today's Progress**: First look at the data. Basic pandas stuff: .info(), .description(), .head() and histograms/scattergraphs where possible.
+
+**Thoughts**
+I'm disappointed that this initial look didn't reveal any real revelations beyond the shape and size of the data available. Some of my plots look pretty bad, and some of the data needs a lot of scrubbing to make it useful. I'm happy about those results because they mean I have some good practical experience ahead of me in the next few weeks to try to sort out the data and get something useful to use later. I think the data preparation gets ignored a lot because it's not as sexy as fitting a model.  But how hard is it to type in "model.fit()"? It seems that preparing the data is really the tricky part of the process. (I say to myself as I start to panic that there is so much prep work between me and that first model.fit())
+
+**Link(s) to work**
+
+
+### Day 9: July 13, 2018
+**Today's Progress**: Finished my initial data collection process.
+
+**Thoughts**
+I have 6 vastly different datasets to work with now. I want to experiment with all the different kinds of analysis and machine learning techniques I've just finished learning. I tried to get a variety of data so that there would be some good/bad fit for various processes because I want to see what happens if I, say, try network analysis to solve the Titanic problem... but also, what can regression or classification do with the ASOIAF network data - anything?
+
+**Link(s) to work**
+
+
 ### Day 8: July 12, 2018
 **Today's Progress**: Finding and taking a first look at some more datasets. I'm looking at legos, credit data, school budgets, and characters from asoiaf. (evening) Completed the Lego project at DataCamp.
 
