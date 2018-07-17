@@ -1,6 +1,16 @@
 # 100 Days Of ML Code Log
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
+
+### Day 12: July 16, 2018
+**Today's Progress**: Made a cool graph for the Titanic data to help speculate about what factors played into the survival rates. Also finished a chapter of DataCamp's 2nd Network Analysis course.
+
+**Thoughts**
+I'm a little frustrated about how long I spent playing with that graph (more than an hour...possibly closer to 3 hours, on ONE graph!... and it's still not what I was hoping it would be.) I am hoping to rotate through my 6 projects each week. So today was the easiest, the Titanic data, and I'll be trying to repeat what I did today on the other datasets and see if I can bring that 3 hours to make a graph down to a more reasonable number. I'm also hoping to start integrating some Network Analysis into my explorations soon. It's the most interesting branch of ML for me at the moment.
+
+**Link(s) to work**
+* None (yet...it's too much a mess for Github at the moment)
+
 ### Day 11: July 15, 2018
 **Today's Progress**: Working through the ASOIF project on DataCamp - exploring network analysis with the characters from Game of Thrones.
 
