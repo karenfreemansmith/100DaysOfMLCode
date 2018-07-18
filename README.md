@@ -1,6 +1,23 @@
 # 100 Days Of ML Code Log
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
+### Day 14: July 18, 2018
+**Today's Progress**: Worked on 3rd chapter of DataCamp's Network Analysis II course...time series graph analysis.
+
+**Thoughts**
+It's interesting to think about how graphs change over time and I'm wondering how we might be able to use that to solve our big problem at work.
+
+**Link(s) to work**
+* [DataCamp Network Analysis II Notes](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC23_NetworkAnalysisPython2.ipynb)
+
+### Day 13: July 17, 2018
+**Today's Progress**: Finished 2nd chapter of DataCamp's Network Analysis II course.
+
+**Thoughts**
+I'm excited that they started (finally) talking about how to get graph information in and out of files today. I think that some of this will help immediately with the data scraping project I have at work. And also the projection stuff will help to reshape some of the data I'm going to be playing with on my side projects.
+
+**Link(s) to work**
+* [DataCamp Network Analysis II Notes](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC23_NetworkAnalysisPython2.ipynb)
 
 ### Day 12: July 16, 2018
 **Today's Progress**: Made a cool graph for the Titanic data to help speculate about what factors played into the survival rates. Also finished a chapter of DataCamp's 2nd Network Analysis course.
@@ -9,7 +26,7 @@ I've been working through the courses at DataCamp.com for the past month or two 
 I'm a little frustrated about how long I spent playing with that graph (more than an hour...possibly closer to 3 hours, on ONE graph!... and it's still not what I was hoping it would be.) I am hoping to rotate through my 6 projects each week. So today was the easiest, the Titanic data, and I'll be trying to repeat what I did today on the other datasets and see if I can bring that 3 hours to make a graph down to a more reasonable number. I'm also hoping to start integrating some Network Analysis into my explorations soon. It's the most interesting branch of ML for me at the moment.
 
 **Link(s) to work**
-* None (yet...it's too much a mess for Github at the moment)
+* [DataCamp Network Analysis II Notes](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC23_NetworkAnalysisPython2.ipynb)
 
 ### Day 11: July 15, 2018
 **Today's Progress**: Working through the ASOIF project on DataCamp - exploring network analysis with the characters from Game of Thrones.
