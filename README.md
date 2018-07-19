@@ -1,6 +1,15 @@
 # 100 Days Of ML Code Log
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
+### Day 15: July 19, 2018
+**Today's Progress**: Finished 3rd chapter of DataCamp's Network Analysis II course and started the last one: analyzing graph data for posts in a student forum.
+
+**Thoughts**
+The week is getting to me and I'm super tired. I feel like I'm almost on the edge of actually learning something, but can't quite break through. Two more days of work and then a weekend to play some more. I feel like I have some of the missing pieces I needed a week ago to be able to apply graphs to a dataset without a tutorial to help me.
+
+**Link(s) to work**
+* [DataCamp Network Analysis II Notes](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC23_NetworkAnalysisPython2.ipynb)
+
 ### Day 14: July 18, 2018
 **Today's Progress**: Worked on 3rd chapter of DataCamp's Network Analysis II course...time series graph analysis.
 
