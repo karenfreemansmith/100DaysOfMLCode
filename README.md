@@ -1,7 +1,17 @@
 # 100 Days Of ML Code Log
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
-### Day 15: July 19, 2018
+### Day 16: July 19, 2018 (evening) - July 20, 2018 (morning)
+**Today's Progress**: Completed a beta project for DataCamp that focused on image processing. Finished the network analysis course and the Git course
+
+**Thoughts**
+This is an interesting way to extend limited sets of image data, you can modify size, color, zoom in on parts of images, rotate them, make them black and white... I can see how these additional images could help train for image recognition applications. Images are fun, but I got distracted by the project and then didn't have enough time to complete the lesson I planned to. Missed work today from being too tired to drive in this morning though, so need to get some sleep tonight. Feeling better this morning, glad I stayed home yesterday as I will probably get twice the work done today now that I'm feeling better (and doubt I would have got anything done yesterday or today if I was still worn out). Feels good to be finishing up these courses too. This weekend I plan to figure out Docker containers and deploy something.
+
+**Link(s) to work**
+* [DataCamp Naive Bees Image Processing Project](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/3DC_Project_ImageProcessingProject/notebook.ipynb)
+* [DataCamp Network Analysis II Notes](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC23_NetworkAnalysisPython2.ipynb)
+
+### Day 15: July 19, 2018 (morning)
 **Today's Progress**: Finished 3rd chapter of DataCamp's Network Analysis II course and started the last one: analyzing graph data for posts in a student forum.
 
 **Thoughts**
