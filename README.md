@@ -1,6 +1,24 @@
 # 100 Days Of ML Code Log
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
+### Day 19: July 23, 2018
+**Today's Progress**: Docker on AWS...looking at more information about building chatbots.
+
+**Thoughts**
+Lots of missteps along the way. I need to do this again and write down the steps that were not mistakes so I can repeat it whenever I want. I've also got the card for building a server with Docker to deploy our ML app at work. Not sure how I feel about that. I know it needs to be done, and appreciate the chance to know how to do it, but it also means I won't be coding any actual ML stuff for another week or more. :(
+
+**Link(s) to work**
+* None
+
+### Day 17-18: July 20, 2018 - July 22, 2018
+**Today's Progress**: Looking into how to deploy Python apps with Flask & Docker. Took all day Saturday, and hours of videos and reading documentation to finally come up with a dockerfile that would run so that I could access it in my browser. Been playing around with GoDaddy server and AWS all day. Still no Docker container deployed anywhere, but I did get a Node.js app up and running on an AWS instance (with the help of a PluralSight course)...and that gave me enough to kind of sorta think I could run the Python code on AWS (without Docker).
+
+**Thoughts**
+Not a fan of installing stuff, but there's no point in writing software unless you can deploy it. It's so frustrating when it's not working, but then it does and it's the best feeling of all. Lots of version issues with Linux and CentOS/RedHat. They need to be version 7 to run Docker, but lost of places (both GoDaddy and AWS are still on 6.x). Turns out even getting Python 3 with Centos 6 is a challenge...
+
+**Link(s) to work**
+* [Flasky Tutorial](https://github.com/karenfreemansmith/flasky-tutorial)
+
 ### Day 16: July 19, 2018 (evening) - July 20, 2018 (morning)
 **Today's Progress**: Completed a beta project for DataCamp that focused on image processing. Finished the network analysis course and the Git course
 
