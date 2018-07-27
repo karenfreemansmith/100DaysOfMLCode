@@ -1,6 +1,34 @@
 # 100 Days Of ML Code Log
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
+### Day 22: July 26, 2018
+**Today's Progress**: Oh, so much progress today. I got the app RUNNING on a server, in a docker container. Took me all day and it WAS a work project (even though it also was a ML project) so I really shouldn't count today. But you know what, 5 minutes after I got the thing running they fired me. So I'm counting the day anyway.
+
+**Thoughts**
+I love building things. I like seeing software that works, and like it even more when it gets deployed and the rest of the world (or company in this case) can see it too. I hate that my obsessive nature and inability to just smile and lie and say everything is good all the time gets me fired. I've really got to quit working for other people I think and find something that people will want that I can build and go into business for myself. I'm kind of out of ideas at the moment though. The reality that I have no job and the paychecks will be stopping soon too is beginning to sink in.
+
+**Link(s) to work**
+* private intranet, sorry, cause it works and it's cool...
+
+### Day 21: July 25, 2018
+**Today's Progress**: Watched the "Using Docker on AWS" course on PluralSight
+
+**Thoughts**
+Best PluralSight author I've watched so far. I feel like his courses and the notes on his website have been super helpful in getting up to speed on docker.
+
+**Link(s) to work**
+* [Using Docker on AWS](https://app.pluralsight.com/library/courses/docker-aws-using/table-of-contents) by David Clinton
+
+
+### Day 20: July 24, 2018
+**Today's Progress**: More Docker, some Jenkins. Lots of code review at work. How do you test ML applications?
+
+**Thoughts**
+Feeling pretty good today. I installed Docker on a new server at work and I think this may be a way to be seen as a wizard for sure. All this infrastructure is so boring and no one wants to learn how to do it (including me), so when you can just make things work it seems like magic. Hope the magic doesn't run out tomorrow when I try to run our app on the server inside of Docker. Most of my not work time is going to learning the background information about how these programs work and what the best practices are to set them up. Looking forward to getting back to actually writing code soon.
+
+**Link(s) to work**
+* None
+
 ### Day 19: July 23, 2018
 **Today's Progress**: Docker on AWS...looking at more information about building chatbots.
 
