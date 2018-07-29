@@ -1,6 +1,27 @@
 # 100 Days Of ML Code Log
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
+
+### Day 24: July 28, 2018
+**Today's Progress**: Worked on a Facebook messenger chatbot tutorial until the power went out, might not have been the whole hour I planned.
+
+**Thoughts**
+I was so close to "done" but now I have to figure out what I lost with the power outage. Grr. Anyway, planning to do chatbots all week and NLP next week. I'm officially looking for work now too, at least until they decide if I'm eligible for unemployment or not. If I'm not then maybe I'll look for business ideas instead of a JOB.
+
+**Link(s) to work**
+* https://github.com/karenfreemansmith/Facebook-Bot
+
+
+### Day 23: July 27, 2018
+**Today's Progress**: Coded along with the @kaggle video by @sirajraval ... some familiar stuff(pandas, sklearn) made the new stuff(xgboost, bagging and boosting) easier to appreciate.
+
+**Thoughts**
+Got to watch more of these! I learned a little about some new types of machine learning algorithms and libraries I did not know about. Videos aren't as good as hands on practice, and I'm trying to code along with the video, but they are good to expand your knowledge of what's possible. Now that I'm unemployed I think I may devote an extra hour a day or so to watching more of these videos by Siraj and others on data science and machine learning topics.
+
+**Link(s) to work**
+* http://youtu.be/suRd3UzdBeo?a
+
+
 ### Day 22: July 26, 2018
 **Today's Progress**: Oh, so much progress today. I got the app RUNNING on a server, in a docker container. Took me all day and it WAS a work project (even though it also was a ML project) so I really shouldn't count today. But you know what, 5 minutes after I got the thing running they fired me. So I'm counting the day anyway.
 
@@ -9,6 +30,7 @@ I love building things. I like seeing software that works, and like it even more
 
 **Link(s) to work**
 * private intranet, sorry, cause it works and it's cool...
+
 
 ### Day 21: July 25, 2018
 **Today's Progress**: Watched the "Using Docker on AWS" course on PluralSight
@@ -29,6 +51,7 @@ Feeling pretty good today. I installed Docker on a new server at work and I thin
 **Link(s) to work**
 * None
 
+
 ### Day 19: July 23, 2018
 **Today's Progress**: Docker on AWS...looking at more information about building chatbots.
 
@@ -38,6 +61,7 @@ Lots of missteps along the way. I need to do this again and write down the steps
 **Link(s) to work**
 * None
 
+
 ### Day 17-18: July 20, 2018 - July 22, 2018
 **Today's Progress**: Looking into how to deploy Python apps with Flask & Docker. Took all day Saturday, and hours of videos and reading documentation to finally come up with a dockerfile that would run so that I could access it in my browser. Been playing around with GoDaddy server and AWS all day. Still no Docker container deployed anywhere, but I did get a Node.js app up and running on an AWS instance (with the help of a PluralSight course)...and that gave me enough to kind of sorta think I could run the Python code on AWS (without Docker).
 
@@ -46,6 +70,7 @@ Not a fan of installing stuff, but there's no point in writing software unless y
 
 **Link(s) to work**
 * [Flasky Tutorial](https://github.com/karenfreemansmith/flasky-tutorial)
+
 
 ### Day 16: July 19, 2018 (evening) - July 20, 2018 (morning)
 **Today's Progress**: Completed a beta project for DataCamp that focused on image processing. Finished the network analysis course and the Git course
@@ -57,6 +82,7 @@ This is an interesting way to extend limited sets of image data, you can modify 
 * [DataCamp Naive Bees Image Processing Project](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/3DC_Project_ImageProcessingProject/notebook.ipynb)
 * [DataCamp Network Analysis II Notes](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC23_NetworkAnalysisPython2.ipynb)
 
+
 ### Day 15: July 19, 2018 (morning)
 **Today's Progress**: Finished 3rd chapter of DataCamp's Network Analysis II course and started the last one: analyzing graph data for posts in a student forum.
 
@@ -65,6 +91,7 @@ The week is getting to me and I'm super tired. I feel like I'm almost on the edg
 
 **Link(s) to work**
 * [DataCamp Network Analysis II Notes](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC23_NetworkAnalysisPython2.ipynb)
+
 
 ### Day 14: July 18, 2018
 **Today's Progress**: Worked on 3rd chapter of DataCamp's Network Analysis II course...time series graph analysis.
@@ -75,6 +102,7 @@ It's interesting to think about how graphs change over time and I'm wondering ho
 **Link(s) to work**
 * [DataCamp Network Analysis II Notes](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC23_NetworkAnalysisPython2.ipynb)
 
+
 ### Day 13: July 17, 2018
 **Today's Progress**: Finished 2nd chapter of DataCamp's Network Analysis II course.
 
@@ -83,6 +111,7 @@ I'm excited that they started (finally) talking about how to get graph informati
 
 **Link(s) to work**
 * [DataCamp Network Analysis II Notes](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC23_NetworkAnalysisPython2.ipynb)
+
 
 ### Day 12: July 16, 2018
 **Today's Progress**: Made a cool graph for the Titanic data to help speculate about what factors played into the survival rates. Also finished a chapter of DataCamp's 2nd Network Analysis course.
@@ -93,6 +122,7 @@ I'm a little frustrated about how long I spent playing with that graph (more tha
 **Link(s) to work**
 * [DataCamp Network Analysis II Notes](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC23_NetworkAnalysisPython2.ipynb)
 
+
 ### Day 11: July 15, 2018
 **Today's Progress**: Working through the ASOIF project on DataCamp - exploring network analysis with the characters from Game of Thrones.
 
@@ -101,6 +131,7 @@ I'm disappointed there wasn't something more to the project. I'd like to see mor
 
 **Link(s) to work**
 * [ASOIAF Experiments](https://github.com/karenfreemansmith/ML-ASOIAF)
+
 
 ### Day 10: July 14, 2018
 **Today's Progress**: First look at the data. Basic pandas stuff: .info(), .description(), .head() and histograms/scattergraphs where possible.
@@ -111,6 +142,7 @@ I'm disappointed that this initial look didn't reveal any real revelations beyon
 **Link(s) to work**
 * None
 
+
 ### Day 9: July 13, 2018
 **Today's Progress**: Finished my initial data collection process.
 
@@ -119,6 +151,7 @@ I have 6 vastly different datasets to work with now. I want to experiment with a
 
 **Link(s) to work**
 * None
+
 
 ### Day 8: July 12, 2018
 **Today's Progress**: Finding and taking a first look at some more datasets. I'm looking at legos, credit data, school budgets, and characters from ASOIAF. (evening) Completed the Lego project at DataCamp.
@@ -133,11 +166,13 @@ I'm pretty happy with the variety of the data I've got to start with. I've got l
 * [DataCamp ASOIAF](https://www.datacamp.com/projects/10)
 * [Lego Experiments](https://github.com/karenfreemansmith/ML-legos)
 
+
 ### Day 7: July 11, 2018
 **Today's Progress**: Research - Looking at the documentation for Bokeh and trying to troubleshoot my charts in Jupyter. Also looking at some machine learning competitions and picking some datasets to work with.
 
 **Thoughts**
 Suffering from mid-week frustration at work and trying to fight it off enough to concentrate on learning activities. I don't want to install a server right now. I think this weekend I'll see what it would take to set up a docker container and figure out how to deploy it online somewhere. At some point we need to be able to do this at work as well, so like it or not, I should try to figure it out. Until then I'm going to look at some datasets from machine learning competitions and try to pick one or two to work on. I want to practice what I've been learning on my own projects. Started notebooks for the Titanic data from Kaggle and the DengAI data from DrivenData.
+
 
 **Link(s) to work**
 * [Titanic data from Kaggle](https://www.kaggle.com/c/titanic/data)
@@ -154,6 +189,7 @@ I'm also thinking all those notes I was taking for the DataCamp course could rea
 **Link(s) to work**
 * None
 
+
 ### Day 6: July 9, 2018 (after work)
 **Today's Progress**: Finished! Finished the last course for the Data Scientist certificate, finished the interactive graph I was working on this morning...trying to get it to run in a Jupyter Notebook the same as it does in the DataCamp environment, but bedtime...because: work...
 
@@ -163,6 +199,7 @@ I'm excited about this interactive graph. I think it will be a killer EDA app fo
 **Link(s) to work**
 * [Interactive Visualizations with Bokeh Notebook](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC14_InteractiveDataVisualizationBokeh.ipynb)
 
+
 ### Day 5: July 9, 2018 (before work)
 **Today's Progress**: Almost there, one exercise left, but I'm already running late for work so I have to leave it for now.
 
@@ -171,6 +208,7 @@ __work !$&^$%)__
 
 **Link(s) to work**
 * [Interactive Visualizations with Bokeh Notebook](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC14_InteractiveDataVisualizationBokeh.ipynb)
+
 
 ### Day 4: July 8, 2018
 **Today's Progress**: Finished the DataCamp Deep Learning Network Analysis course and made some more progress on the Interactive Visualization course, should be able to finish it tomorrow and that will wrap up the DataCamp certificate
@@ -182,6 +220,7 @@ I'm glad to be so close to finished with this online course. I feel like I've le
 * [Newtork Analysis 1 Notebook](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC22_NetworkAnalysisPython1.ipynb)
 * [Interactive Visualizations with Bokeh Notebook](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC14_InteractiveDataVisualizationBokeh.ipynb)
 
+
 ### Day 3: July 7, 2018
 **Today's Progress**: Finished the second half of DataCamp Deep Learning course (Keras lessons), started working on the Network Analysis course.
 
@@ -190,6 +229,7 @@ I'm glad to be so close to finished with this online course. I feel like I've le
 **Link(s) to work**
 * [Deep Learning Notebook](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC21_DeepLearningPython.ipynb)
 * [Newtork Analysis 1 Notebook](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC22_NetworkAnalysisPython1.ipynb)
+
 
 ### Day 2: July 6, 2018
 **Today's Progress**: Finished up the Unsupervised Learning course and started on Deep Learning. Walked through the code for building a simple (2 layers) neural network. Signed up for DrivenData and Kaggle to find some projects to try applying these concepts to. Ended up doing the first section of "Interactive Visualizations with Bokeh" in the evening.
@@ -200,6 +240,7 @@ I'm glad to be so close to finished with this online course. I feel like I've le
 * [Unsupervised Learning Notebook](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC20_UnsupervisedLearningPython.ipynb)
 * [Deep Learning Notebook](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC21_DeepLearningPython.ipynb)
 * [Interactive Visualizations with Bokeh Notebook](https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC14_InteractiveDataVisualizationBokeh.ipynb)
+
 
 ### Day 1: July 5, 2018
 **Today's Progress**: Finally finished up the Statistics courses and got the "Data Analyst" certificate on DataCamp. Started the Unsupervised Learning course learning about KMeans and clustering.
