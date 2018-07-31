@@ -2,6 +2,26 @@
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
 
+### Day 26: July 30, 2018
+**Today's Progress**: Reviewed the first section of the chatbot course and tweaked my chatbot logic a little. I also got the chatbot running in a docker container on my computer. Still trying to figure out how this elastic beanstalk works. I seem to be missing some file that it wants.
+
+**Thoughts**
+At this point I'm thinking EC2 would be "easier" than their "easy" solution. I've done this with CLI tools on a server before and so at least know my way around once I get the ssh connection to the server. Frustrating that "easy" has to be so confusing. I've seen a couple friends try to talk to my bot so I'm anxious to get it up and chatting back asap.
+
+**Link(s) to work**
+* https://www.facebook.com/Micro-Academy-Bot-784488255274717
+
+
+### Day 25: July 29, 2018
+**Today's Progress**: Got my chatbot tested and deployed in developer mode on Facebook. It's fun to play with it, but was disappointed to learn that no one else can interact with it.
+
+**Thoughts**
+I suppose because it isn't "public" yet, but I don't know that I'm ready to flip that switch - at least not until I have a permanent IP. I'm using this ngrok program to expose my localhost port to the world, but it assigns a new IP each time it restarts.
+
+**Link(s) to work**
+* https://www.facebook.com/Micro-Academy-Bot-784488255274717
+
+
 ### Day 24: July 28, 2018
 **Today's Progress**: Worked on a Facebook messenger chatbot tutorial until the power went out, might not have been the whole hour I planned.
 
