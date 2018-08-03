@@ -1,6 +1,38 @@
 # 100 Days Of ML Code Log
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
+### Day 29: August 2, 2018
+**Today's Progress**:
+
+**Thoughts**
+I got an EC2 instance set up and installed Docker, got my program running (I think) in a docker container and exposed to the work - oh, except FACEBOOK wants https, not http... so I chased after setting up https on port 443 and I think I missing an SSL certificate to make that actually work right. So I'm still fighting some very NON-ML issues with this project.
+
+Watched a video by Siraj on Serverless cloud services and wished that I could see how to make THIS project work that way. I don't. Sound good, but still sounds like hype and advertising more than HOW-TO. At some point I want to figure out the AWS Lambda services and exactly how far will that go to eliminate this infrastructure headache.
+
+In addition to my https woes, there is a "business verification" step where they want a copy of your freakin' business license. Right... so I registered my little wannabe business with the state and now I'm feeling like I need to get off my butt and grow a business - for real. Hmmm... life may be about to get interesting.
+
+**Link(s) to work**
+* https://www.facebook.com/Micro-Academy-Bot-784488255274717
+
+### Day 28: July 31, 2018
+**Today's Progress**: It's alive! (It's still on an ngrok tunnel that collapses every few hours...but it's alive on Facebook when the tunnel is working.) I watched a couple videos about chatbots and read some in a book about chatbots.
+
+**Thoughts**
+I have reviewed the history and current applications and it's helping me think about where to take this next. Still finding the phone ringing all day to be distracting. I think I have enough applications in for now, I might have to turn the phone off until some of these have a chance to play out. And there is still this idea that there could be a business idea in these chatbots that would be more interesting than another JOB.
+
+**Link(s) to work**
+* https://www.facebook.com/Micro-Academy-Bot-784488255274717
+
+
+### Day 27: August 1, 2018
+**Today's Progress**: Chapter 3 of the Chatbot course about using databases and turning natural langauge into queries. Still trying to get this thing to be live online
+
+**Thoughts**
+Too many recruiters calling all day, it's hard to get anything done. I mean, a job would be nice, but I'm feeling overwhelmed by all the attention. And I expected that being unemployed would give me more time to study and build things...
+
+**Link(s) to work**
+* https://www.facebook.com/Micro-Academy-Bot-784488255274717
+
 
 ### Day 26: July 30, 2018
 **Today's Progress**: Reviewed the first section of the chatbot course and tweaked my chatbot logic a little. I also got the chatbot running in a docker container on my computer. Still trying to figure out how this elastic beanstalk works. I seem to be missing some file that it wants.
