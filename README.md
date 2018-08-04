@@ -1,31 +1,48 @@
-# 100 Days Of ML Code Log
+exaggeration# 100 Days Of ML Code Log
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
+### Day 30: August 3, 2018
+**Today's Progress**: After watching a few people interact with my bot, I made some changes to make the conversation flow better. Added a bunch of emoji to my list of default responses. It's amazing how versatile a smiley face can be in conversation. Next up is to try to create some kind of memory that lasts at least as long as any given conversation.
+
+Finished Chatbot course on DataCamp. Final chapter focused on using state to maintain a context for interpreting messages based on the point in the conversation (example was ordering coffee).
+
+Also read over the first chatbot in my book. They built it with a service called "Chatfuel" that has you build your bot with cards of various kinds... and then you create a program flow between the cards.
+
+**Thoughts**
+This DataCamp course seemed poorly put together. I spent a lot of time debugging code from their tutorials to actually get my bot to work. The other complaint I have about DataCamp in general is that the lessons are kind of hit and miss. They have exercises (good), but you only fill in the blanks to get their code to run. You CAN sometimes run the code as it's written, but a lot of the exercises seem to depend on background code that only runs when you submit the exercise (and you never actually see...) so it's hard to know exactly what you need to do in a real life situation. And they don't allow for any kind of modification or playing with the code to see how different changes may (or may not) work. It leaves me feeling like I didn't learn as much as I'd like.
+
+I liked looking at the Chatfuel system and seeing how they built their bot. I don't think I'd want to build my bot with their software because it really does take the fun out of it. But there were some great ideas about how a bot application could work (like buttons for standard responses) and an overview of how all the pieces fit together - or the conversation flow. Glancing ahead it looks like the upcoming chapters may have some interesting deployment ideas and the variety of bots they build is interesting as well. (I'm reading this on SafariBooksOnline which costs as much per month as this ONE book costs on Amazon. I know it's still a lot for some people, especially if you live outside of the US, but it's been a big money saver for me to NOT buy a book a week anymore. Including both links to the book for those that might be interested.)
+
+**Link(s) to work**
+* https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC24_BuildingChatbotPython.ipynb
+* https://www.safaribooksonline.com/library/view/hands-on-chatbots-and/9781788294669/
+* https://www.amazon.com/Hands-Chatbots-Conversational-Development-interfaces/dp/1788294661/ref=sr_1_1?ie=UTF8&qid=1533353864&sr=8-1&keywords=Hands-On+Chatbots+and+Conversational+UI+Development+Hands-On+Chatbots+and+Conversational+UI+Development
+
+
 ### Day 29: August 2, 2018
-**Today's Progress**:
+**Today's Progress**: It's alive! (It's still on an ngrok tunnel that collapses every few hours...but it's alive on Facebook when the tunnel is working.)
+
+Skipped my lesson on DataCamp in favor of starting a book on Chatbots. 8 chapters of sample chatbots to read through in the upcoming days. Watched a couple of Siraj videos about chatbots as well, some reinforcement of what I'd just been reading there.  
 
 **Thoughts**
-I got an EC2 instance set up and installed Docker, got my program running (I think) in a docker container and exposed to the work - oh, except FACEBOOK wants https, not http... so I chased after setting up https on port 443 and I think I missing an SSL certificate to make that actually work right. So I'm still fighting some very NON-ML issues with this project.
-
-Watched a video by Siraj on Serverless cloud services and wished that I could see how to make THIS project work that way. I don't. Sound good, but still sounds like hype and advertising more than HOW-TO. At some point I want to figure out the AWS Lambda services and exactly how far will that go to eliminate this infrastructure headache.
-
-In addition to my https woes, there is a "business verification" step where they want a copy of your freakin' business license. Right... so I registered my little wannabe business with the state and now I'm feeling like I need to get off my butt and grow a business - for real. Hmmm... life may be about to get interesting.
-
-**Link(s) to work**
-* https://www.facebook.com/Micro-Academy-Bot-784488255274717
-
-### Day 28: July 31, 2018
-**Today's Progress**: It's alive! (It's still on an ngrok tunnel that collapses every few hours...but it's alive on Facebook when the tunnel is working.) I watched a couple videos about chatbots and read some in a book about chatbots.
-
-**Thoughts**
-I have reviewed the history and current applications and it's helping me think about where to take this next. Still finding the phone ringing all day to be distracting. I think I have enough applications in for now, I might have to turn the phone off until some of these have a chance to play out. And there is still this idea that there could be a business idea in these chatbots that would be more interesting than another JOB.
+These chatbots seem to be build on systems provided by others that do all the heavy lifting, you just hook them up to your favorite messenger service. That may be a little bit of an exaggeration, but it is a little discouraging that they don't seem to get into the actual coding fun of building the bot.
 
 **Link(s) to work**
 * https://www.facebook.com/Micro-Academy-Bot-784488255274717
 
 
-### Day 27: August 1, 2018
-**Today's Progress**: Chapter 3 of the Chatbot course about using databases and turning natural langauge into queries. Still trying to get this thing to be live online
+### Day 28: August 1, 2018
+**Today's Progress**: Chapter 3 of the Chatbot course about using databases and turning natural language into queries. Still trying to get this thing to be live online
+
+**Thoughts**
+Still too many recruiters calling all day long. It's hard to concentrate and actually sit down and spend a whole hour uninterrupted. Sometimes it's disappointing how badly the jobs actually fit my interests right now. They always want something that I did last year or 10 years ago instead. On one hand, whatever pays the bills, but it will take at least a little ML in the job description to get excited about any of these jobs.
+
+**Link(s) to work**
+* https://www.facebook.com/Micro-Academy-Bot-784488255274717
+
+
+### Day 27: July 31, 2018
+**Today's Progress**: Chapter 2 of the Chatbot course got into actually using ML for the chatbot. Word vectors, sklearn, spaCy, RasaNLU. Did all the exercises, but ran out of time to apply any of it to my chatbot.
 
 **Thoughts**
 Too many recruiters calling all day, it's hard to get anything done. I mean, a job would be nice, but I'm feeling overwhelmed by all the attention. And I expected that being unemployed would give me more time to study and build things...
