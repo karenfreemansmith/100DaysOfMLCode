@@ -1,6 +1,30 @@
 exaggeration# 100 Days Of ML Code Log
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
+### Day 32: August 5, 2018
+**Today's Progress**: Cleaning up my messes, getting different experiments onto different branches, debugging the database stuff that isn't working as expected.
+
+**Thoughts**
+GIT is the best thing ever! I liked it before, but right now I have like 4 different bots that I can run in test mode just by doing a "git checkout". It's pretty cool to be able to kind of compare them side by side like that.
+
+It's funny how fast complexity can sneak up on you... and how tangled your ideas can get when you stay up all night trying to get "just one more thing" working before you go to sleep. Okay, maybe not that funny...
+
+**Link(s) to work**
+* https://www.facebook.com/microacademybot
+
+
+### Day 31: August 4, 2018
+**Today's Progress**: Read about NLTK (Natural Language Toolkit) and played around with it half the day, then spend the other half trying to parse some text from Project Gutenberg into a database to give my bot a better vocabulary. Mixed results. Lots of words, but still not making sense in a conversation.
+
+So I'm trying another idea starting from a completely blank slate and training the both through actual conversations. It's still a work in progress.
+
+**Thoughts**
+Wow, the day went by fast....I barely took a break all day long and now it's after midnight. I've got some text still being loaded into one of my databases that I can use for my chatbot, and I'm working on another one, just fresh because I want to see if the bot can learn "appropriate" responses from a conversation or not. I hope to have one or both of these ideas added to my bot tomorrow, well today now, I wanted to get it before I went to bed, but that doesn't seem likely now.
+
+**Link(s) to work**
+* https://www.facebook.com/microacademybot
+
+
 ### Day 30: August 3, 2018
 **Today's Progress**: After watching a few people interact with my bot, I made some changes to make the conversation flow better. Added a bunch of emoji to my list of default responses. It's amazing how versatile a smiley face can be in conversation. Next up is to try to create some kind of memory that lasts at least as long as any given conversation.
 
