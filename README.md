@@ -1,8 +1,29 @@
 exaggeration# 100 Days Of ML Code Log
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
+
+### Day 34: August 7, 2018
+**Today's Progress**: Learned about gensim, tf-idf, and other preprocessing topics for text. I'm working on implementing tokens, contexts, and intents into my chatbot. The database design seems good, but I'm still struggling to figure out how to recognize when the context/intents change during a conversation. Experimented with several ideas, but nothing is doing quite what I'd like it to. At this stage, I'm loading a new copy of the database with canned text that is already identified in terms of context and intent (and hard-coded...) hoping that going through the motions by hand will lead to some breakthrough on how to automate it down the road.
+
+**Thoughts**
+Another long day in front of the computer. Didn't get as much done as I would like as job interviews are VERY distracting, even if they are only phone screens. I have a face-to-face tomorrow to ruin my day. There are benefits to being unemployed and more time to write code on a project that interests me is one of them. I'm thinking of calling off the job search for a couple weeks to get my chatbot up and running before I allow any more distractions... because this IS the fun stuff.
+
+**Link(s) to work**
+* https://www.facebook.com/microacademybot
+
+
+### Day 33: August 6, 2018
+**Today's Progress**: Got my database working so the bot can now learn from conversations, then I let my 18-year-old son test it... now I have to reset the database to get rid of all the bad language... well, and make some kind of filter to keep people from teaching it all the wrong things.
+
+**Thoughts**
+It's been a rewarding day, a lot of revising things that just barely worked to be more modular and reusable. Also looking at tokens, contexts, entities and intents. There is still so much more I want to make this chatbot do!
+
+**Link(s) to work**
+* https://www.facebook.com/microacademybot
+
+
 ### Day 32: August 5, 2018
-**Today's Progress**: Cleaning up my messes, getting different experiments onto different branches, debugging the database stuff that isn't working as expected.
+**Today's Progress**: Cleaning up my messes, getting different experiments onto different branches, debugging the database stuff that isn't working as expected. Trying to work out how to make the bot learn from conversations but resistant to hate speech or other offensive content at the same time.
 
 **Thoughts**
 GIT is the best thing ever! I liked it before, but right now I have like 4 different bots that I can run in test mode just by doing a "git checkout". It's pretty cool to be able to kind of compare them side by side like that.
