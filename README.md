@@ -6,7 +6,7 @@ I've been working through the courses at DataCamp.com for the past month or two 
 **Today's Progress**: Playing with (um, I mean testing...) my chatbot today and feeding it some more conversational tips. Looking at other chatbots and thinking about how to figure out the intent of a short response like the ones you get when chatting.
 
 **Thoughts**
-I've looked at how to break down responses into tokens and identify parts of speech, and most common words, and word vectors, but I'm still not sure what a good approach to getting at the meaning of a sentence would be. I can hard code stuff up to a point, but how to get the bot to LEARN a new topic all by itself? That is my real goal.
+I've looked at how to break down responses into tokens and identify parts of speech, and most common words, and word vectors, but I'm still not sure what a good approach to getting at the meaning of a sentence would be. I can hard code stuff up to a point, but how to get the bot to LEARN a new topic all by itself? That is my real goal. Feeling kind of stuck and distracted, and maybe on the brink of discovering something.
 
 **Link(s) to work**
 * https://www.facebook.com/microacademybot
