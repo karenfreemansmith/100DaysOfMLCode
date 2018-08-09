@@ -2,6 +2,16 @@ exaggeration# 100 Days Of ML Code Log
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
 
+### Day 35: August 8, 2018
+**Today's Progress**: Playing with (um, I mean testing...) my chatbot today and feeding it some more conversational tips. Looking at other chatbots and thinking about how to figure out the intent of a short response like the ones you get when chatting.
+
+**Thoughts**
+I've looked at how to break down responses into tokens and identify parts of speech, and most common words, and word vectors, but I'm still not sure what a good approach to getting at the meaning of a sentence would be. I can hard code stuff up to a point, but how to get the bot to LEARN a new topic all by itself? That is my real goal.
+
+**Link(s) to work**
+* https://www.facebook.com/microacademybot
+
+
 ### Day 34: August 7, 2018
 **Today's Progress**: Learned about gensim, tf-idf, and other preprocessing topics for text. I'm working on implementing tokens, contexts, and intents into my chatbot. The database design seems good, but I'm still struggling to figure out how to recognize when the context/intents change during a conversation. Experimented with several ideas, but nothing is doing quite what I'd like it to. At this stage, I'm loading a new copy of the database with canned text that is already identified in terms of context and intent (and hard-coded...) hoping that going through the motions by hand will lead to some breakthrough on how to automate it down the road.
 
