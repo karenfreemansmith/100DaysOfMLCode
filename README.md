@@ -1,5 +1,87 @@
-exaggeration# 100 Days Of ML Code Log
+# 100 Days Of ML Code Log
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
+
+
+### Day 42: August 15, 2018
+**Today's Progress**: DataCamp Linear Regression, Chapter 3 - multi-class linear regressions.
+
+**Thoughts**
+I get the idea of one-vs-many at least, but some of these exercises don't really make sense to me. I can do them, but I'm not sure WHY they matter. I wish they had some more real world examples with actual questions and answers so you could see how the math solves a problem rather than just thinking about math and graphs in an abstract way.
+
+**Link(s) to work**
+* https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC27_LinearClassifiers.ipynb
+
+### Day 41: August 14, 2018
+**Today's Progress**: DataCamp Linear Regression, Chapter 2 - did some loss functions by hand, pretty cool! More progress on the blog, 3 more posts started, some revisions with SEO on existing posts. Still working on getting containers for all my websites figured out.
+
+**Thoughts**
+Loved tweaking this loss function code by hand and watching the graph change, it makes me feel more like I understand the loss function better now.
+
+Happy with the blog progress. I think the daily "step" toward a full post is helping overcome that typical writer's block. I'm only doing one part each day: outline, draft, research, revision for content, final edit.  That keeps any one task from feeling overwhelming (at least so far).
+
+I've abandoned ideas about throwing up new stuff like NGINX on these containers, at least for now. A lot of the prebuilt scripts I'm finding don't seem to work. So maybe I'm better off making my own images for now with what I already now how to do.
+
+**Link(s) to work**
+* https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC27_LinearClassifiers.ipynb
+
+### Day 40: August 13, 2018
+**Today's Progress**: DataCamp Linear Regression, Chapter 1, Setting up blog, first 4 posts rough drafts, working on getting multiple websites to run from docker containers on EC2 instance.
+
+**Thoughts**
+Lots of good looking tutorials, but still no websites online. Don't know if these tutorials were for previous versions or what, but they all seem to be missing something I need to get mine to work. I'm learning a lot about Docker and AWS in the meantime.  It's like a giant puzzle and sooner or later I hope to find all the pieces.
+
+Pleased with first few drafts for blog posts - all beginning python, but you have to start somewhere! I'm going to focus on the foundational articles during the week and try to branch out to more interesting stuff (like how I build this Chatbot) on the weekends.
+
+Linear regression course is cool, liked the way he explained things. I feel like that, at least, is making good sense. This first chapter is mostly review though...
+
+**Link(s) to work**
+* https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC27_LinearClassifiers.ipynb
+
+
+### Day 39: August 12, 2018
+**Today's Progress**: Stepping up from planning to outlining various topics I can blog about and creating a schedule from now until the end of the year.
+
+**Thoughts**
+Reviewed all the things I've been learning about over the past 4-5 months and figuring out how to blog about them. It's all a foundation to build on, because I feel like it should be there, but still looking for the parts that will be new and different enough to make it worth visiting the blog in the first place. It's going to take a long time to get established.
+
+**Link(s) to work**
+* https://machinelearningpages.com (not published yet...)
+
+
+### Day 38: August 11, 2018
+**Today's Progress**: Reading about how to start a good technical blog and thinking about how to apply that to a blog of my own. Also looking more into AWS as a hosting platform.
+
+**Thoughts**
+Feeling a little overwhelmed about blogging and worried that I have nothing new or unique to contribute when I look at some of the other blogs that are already out there.
+
+**Link(s) to work**
+* https://machinelearningpages.com (not published yet...)
+
+
+### Day 37: August 10, 2018
+**Today's Progress**: Completed the Natural Language Processing course on DataCamp.
+
+**Thoughts**
+Not the best day - errands to run. Did some thinking about how to improve my chatbot while waiting in line at the DMV...main thing I want to do is have it running 100% of the time so I don't have to get up in the middle of the night to reboot the server "just in case" someone decides to come by and chat with it.
+
+Considering my next project to complete. There is one more course left for a "Machine Learning" certificate at DataCamp that I'd like to do. But also starting a blog and reviewing what I've learned so far by writing blog posts is high on the list. AND there are some challenges with various ML organizations like Kaggle that I would like to try. So much to do, and so little time (even when unemployed...)
+
+**Link(s) to work**
+* https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC25_NaturalLanguageProcessingFundamentals.ipynb
+
+
+### Day 36: August 9, 2018
+**Today's Progress**: Working out the kinks with classifying text by context and intent. Also completed the NLP chapter on Named Entities. They have so many libraries, and they all require extra setup to use them.
+
+**Thoughts**
+Some progress with intents, but still not changing contexts well. I still got booted back to the "hello/hi" thing a couple times, but the conversation seemed to flow a little better than before. Built a report for viewing all the "unclassified" items to see if there are any rules that jump out at me when I browse through. Found a few, but think I'll sleep first and test it out tomorrow.
+
+I wonder if the NLP libraries are worth the time it takes to download them? I think I need to create a couple docker images that have everything downloaded and just need the app added rather than running the pip install as part of the dockerfile. And once I have those in place, does it make sense to have the whole thing in a CI/CD pipeline? More than I want to think about right now. I still haven't quite got docker working on AWS. Something I think I really need to make a higher priority so I don't have to keep restarting this toy server I'm using every 6-8 hours.
+
+Real life is starting to demand my attention too... got errands like the DMV and interviews and bills and web servers about to expire. I think I may get less programming done this weekend while I take care of all the other stuff.
+
+**Link(s) to work**
+* https://www.facebook.com/microacademybot
 
 
 ### Day 35: August 8, 2018
