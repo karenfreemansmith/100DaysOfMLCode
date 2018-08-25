@@ -2,6 +2,93 @@
 I've been working through the courses at DataCamp.com for the past month or two and am getting close to finishing the "Data Scientist Certificate" there... AND I'm working on an ML project at work (which is why I signed up at DataCamp in the first place). For this challenge I intend to do an hour of NOT WORK related ML coding each day.
 
 
+### Day 50: August 24, 2018
+**Today's Progress**: Did a bunch of HackerRank challenges, revised my learning plan.
+
+**Thoughts**
+I feel like I've gotten pretty side-tracked with the AWS deployment idea. I still think I need something like this to put python code online, but every time I overcome one roadblock I discover 2 or 3 new ones. I've had to take some time and refocus where I'm trying to go.
+
+**Link(s) to work**
+* https://www.hackerrank.com/freemansmith
+
+
+### Day 49: August 23, 2018
+
+**Today's Progress**: Finally got everything working together with Docker on AWS only to have the server overload and crash.
+
+**Thoughts**
+I guess this isn't possible on the free tier. I've learned a lot about the AWS services though so I'm rethinking my deployment strategy. As far as blogging goes though I've got to recommend GoDaddy for the price. It looks like AWS really pushes you into the managed database space for mySQL and that gets expensive fast.
+
+**Link(s) to work**
+* (broken)
+
+
+### Day 48: August 22, 2018
+**Today's Progress**: Played around with my chatbot and started a web interface to test the AWS container.
+
+**Thoughts**
+I followed all the stuff to set up https, but it refuses to work and I don't understand why not. Very frustrating - like pretty much all of AWS.
+
+**Link(s) to work**
+* (broken)
+
+
+### Day 47: August 21, 2018
+**Today's Progress**: Tons of AWS videos
+
+**Thoughts**
+Saw some cool stuff. I even managed to duplicate one or two things. Spent way too much time on it though and feel like I'm getting off on a tangent I'd rather not be on, probably.
+
+**Link(s) to work**
+* (broken)
+
+
+### Day 46: August 20, 2018
+**Today's Progress**: Outling/draft of a bunch of blog posts. AWS course and some experimenting with docker/aws.
+
+**Thoughts**
+I almost thought I had the https thing figured out, but then it was just an illusion. The site was just taking so long to load... Still feel like I got a few new insights about how AWS works, some of which may prove useful yet.
+
+**Link(s) to work**
+* https://machinelearningpages.com (soon)
+* https://www.messenger.com/t/microacademybot
+
+
+### Day 45: August 19, 2018
+**Today's Progress**: Planning next week's blog posts.
+
+**Thoughts**
+I'm kind of falling behind on this blog schedule already, but I'm resolving to get back on track this week as well as work out these docker/aws things so the blog can go live by next weekend along with getting my chatbot deployed.
+
+**Link(s) to work**
+* https://machinelearningpages.com (soon)
+* https://www.messenger.com/t/microacademybot
+
+
+### Day 44: August 18, 2018
+**Today's Progress**: Debugging some logic errors in my chatbot and doing some more training practice with it. Also looking at other chatbots online for additional ideas.
+
+**Thoughts**
+I feel like I'm close to a lot of the popular general chatbots I see online. That may be because I'm the only one talking to it, so the conversations flow reasonably well. I don't know how it would act if a lot of people were trying to chat with it - or how to get a lot of people to try it. :(
+
+**Link(s) to work**
+* https://www.messenger.com/t/microacademybot
+
+
+### Day 43: August 18, 2018
+**Today's Progress**: DataCamp Linear Regression, Chapter 4 - Finished course, finished "Machine Learning with Python" track.
+
+**Thoughts**
+I've done all the "tracks" available at DataCamp that are python based. There are still some more courses that aren't included in any tracks (yet?) and there are the "R" based tracks as well. Wondering which way to go next (I did pay for a full year of access, so I kind of feel like I need to get as much out of it as possible).
+
+**Link(s) to work**
+* https://datacamp-karenfreemansmith.notebooks.azure.com/nb/notebooks/DC27_LinearClassifiers.ipynb
+
+
+### (Missing Days?)
+So I stumbled across this really great fan fiction story that was 100+ chapters long and couldn't stop reading... made me think about having more life on the "work-life-balance" spectrum. Also escaped the deployment frustrations for a couple days. There are improvements I want to make on my chatbot, but I think I need to get it more fully deployed before any of them would actually make a difference. There are just a lot of pieces to getting things to work on AWS and it seems like as soon as I fix one, two more pop up. Can you blame me for taking a little break to fight dragons instead?
+
+
 ### Day 42: August 15, 2018
 **Today's Progress**: DataCamp Linear Regression, Chapter 3 - multi-class linear regressions.
 
